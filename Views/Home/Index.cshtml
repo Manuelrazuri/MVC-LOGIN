@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+    string saludo = ViewBag.atributoSaludo;
+
+    List<Auto> lista = ViewBag.listaAutos;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <br />
+    <p>@saludo</p>
+    <br />
+    <table>
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Marca</th>
+                <th>Modelo</th>
+                <th>Llantas</th>
+                <th>Ventanas</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                for(int i = 0; i < lista.Count; i++)
+                {
+                    <tr>
+                        <td>@(i+1)</td>
+                        <td>@lista[i].marca</td>
+                        <td>@lista[i].modelo</td>
+                        <td>@lista[i].cantidadLlantas</td>
+                        <td>@lista[i].cantidadVentanas</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

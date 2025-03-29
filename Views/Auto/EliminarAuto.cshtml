@@ -1,0 +1,14 @@
+@model Auto
+
+<h2>Editar Auto</h2>
+
+<form asp-action="EliminarAuto" asp-controller="Auto" method="post">
+    <input type="hidden" name="codigo" value="@Model.codigo" />
+    
+     <div class="alert alert-primary" role="alert">
+    ¿Deseas Eliminar el auto  @Html.DisplayTextFor(m => m.marca)?
+    </div>
+  
+    <button type="submit" class="btn btn-success">Eliminar</button>
+    <a class="btn btn-secondary" href="@Url.Action("Index", "Auto")">Cancelar</a>
+</form>

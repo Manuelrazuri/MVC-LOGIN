@@ -1,0 +1,55 @@
+@{
+    ViewData["Title"] = "Autos";
+
+    List<Auto> lista = ViewBag.listaAutos;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Autos</h1>
+    <div>
+    <a class="btn btn-primary" href="@Url.Action("AgregarAuto", "Auto")">Agregar</a>
+</div>
+<div>
+    <form asp-action="BuscarAuto" asp-controller="Auto" >
+    <p>
+        Buscar: <input type="text" name="buscar" class="form-text">
+        <input type="submit" value="Buscar" class="btn btn-sm btn-dark"/>
+
+    </p>
+</form>
+
+</div>
+    <br />
+    <table>
+        <thead>
+            <tr>
+                <th >#</th>
+                <th>Marca</th>
+                <th>Modelo</th>
+                <th>Llantas</th>
+                <th>Ventanas</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                for(int i = 0; i < lista.Count; i++)
+                {
+                    <tr>
+                        <td>@(i+1)</td>
+                        <td>@lista[i].marca</td>
+                        <td>@lista[i].modelo</td>
+                        <td>@lista[i].cantidadLlantas</td>
+                        <td>@lista[i].cantidadVentanas</td>
+                        <td>
+                            <a class="btn btn-primary" href="@Url.Action("EditarAuto", "Auto", new { id = lista[i].codigo })">Editar Auto</a>
+                        </td>
+
+                        <td>
+                           <a class="btn btn-primary" href="@Url.Action("EliminarAuto", "Auto", new { id = lista[i].codigo })">Eliminar Auto</a>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

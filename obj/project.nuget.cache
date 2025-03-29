@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "F2EGDYGGw+l3TYDoCuLUW1+l2UNz9WvBU5DiGhxvucb57FkgUEOwtcSYbvB8sxS1E8UN+fnUOWt0qeWPcHx8Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Manuel razuri\\Desktop\\C#\\mvc\\mvc\\mvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manuel razuri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Manuel razuri\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Manuel razuri\\.nuget\\packages\\mysqlconnector\\2.4.0\\mysqlconnector.2.4.0.nupkg.sha512",
+    "C:\\Users\\Manuel razuri\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512",
+    "C:\\Users\\Manuel razuri\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
