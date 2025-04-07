@@ -1,0 +1,60 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = mvc
+build_property.RootNamespace = mvc
+build_property.ProjectDir = c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/cns_ma3/Downloads/MVC-LOGIN-master/MVC-LOGIN-master/Views/Auto/AgregarAuto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1xBZ3JlZ2FyQXV0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/cns_ma3/Downloads/MVC-LOGIN-master/MVC-LOGIN-master/Views/Auto/EditarAuto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1xFZGl0YXJBdXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/cns_ma3/Downloads/MVC-LOGIN-master/MVC-LOGIN-master/Views/Auto/EliminarAuto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1xFbGltaW5hckF1dG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/cns_ma3/Downloads/MVC-LOGIN-master/MVC-LOGIN-master/Views/Auto/ListaDeAutos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1xMaXN0YURlQXV0b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/cns_ma3/Downloads/MVC-LOGIN-master/MVC-LOGIN-master/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/cns_ma3/Downloads/MVC-LOGIN-master/MVC-LOGIN-master/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/cns_ma3/Downloads/MVC-LOGIN-master/MVC-LOGIN-master/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/cns_ma3/Downloads/MVC-LOGIN-master/MVC-LOGIN-master/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/cns_ma3/Downloads/MVC-LOGIN-master/MVC-LOGIN-master/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/cns_ma3/Downloads/MVC-LOGIN-master/MVC-LOGIN-master/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/cns_ma3/Downloads/MVC-LOGIN-master/MVC-LOGIN-master/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-x8p8g49oo3

@@ -1,0 +1,62 @@
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\bin\Debug\net6.0\appsettings.json
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\bin\Debug\net6.0\mvc.staticwebassets.runtime.json
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\bin\Debug\net6.0\mvc.exe
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\bin\Debug\net6.0\mvc.deps.json
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\bin\Debug\net6.0\mvc.runtimeconfig.json
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\bin\Debug\net6.0\mvc.dll
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\bin\Debug\net6.0\mvc.pdb
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\bin\Debug\net6.0\MySqlConnector.dll
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\mvc.csproj.AssemblyReference.cache
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\mvc.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\mvc.AssemblyInfoInputs.cache
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\mvc.AssemblyInfo.cs
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\mvc.csproj.CoreCompileInputs.cache
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\mvc.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\mvc.RazorAssemblyInfo.cache
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\mvc.RazorAssemblyInfo.cs
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\staticwebassets.development.json
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\scopedcss\bundle\mvc.styles.css
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\scopedcss\projectbundle\mvc.bundle.scp.css
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\mvc.csproj.CopyComplete
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\mvc.dll
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\refint\mvc.dll
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\mvc.pdb
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\mvc.genruntimeconfig.cache
+c:\Users\Manuel razuri\Desktop\C#\mvc\mvc\obj\Debug\net6.0\ref\mvc.dll
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\bin\Debug\net6.0\appsettings.json
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\bin\Debug\net6.0\mvc.staticwebassets.runtime.json
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\bin\Debug\net6.0\mvc.exe
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\bin\Debug\net6.0\mvc.deps.json
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\bin\Debug\net6.0\mvc.runtimeconfig.json
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\bin\Debug\net6.0\mvc.dll
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\bin\Debug\net6.0\mvc.pdb
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\bin\Debug\net6.0\MySqlConnector.dll
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\mvc.csproj.AssemblyReference.cache
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\mvc.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\mvc.AssemblyInfoInputs.cache
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\mvc.AssemblyInfo.cs
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\mvc.csproj.CoreCompileInputs.cache
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\mvc.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\mvc.RazorAssemblyInfo.cache
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\mvc.RazorAssemblyInfo.cs
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\staticwebassets.development.json
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\scopedcss\bundle\mvc.styles.css
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\scopedcss\projectbundle\mvc.bundle.scp.css
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\mvc.csproj.CopyComplete
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\mvc.dll
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\refint\mvc.dll
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\mvc.pdb
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\mvc.genruntimeconfig.cache
+c:\Users\cns_ma3\Downloads\MVC-LOGIN-master\MVC-LOGIN-master\obj\Debug\net6.0\ref\mvc.dll
